@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Reel of Magnetic Tape with COBOL Compiler, Harold Dorwin, National Museum of American History, Smithsonian Institution](https://ids.si.edu/ids/deliveryService?id=NMAH-DOR2010-1812)
 <!--
 **UNISERVO1/UNISERVO1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
